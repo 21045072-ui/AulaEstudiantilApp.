@@ -22,3 +22,6 @@
 ## Seguridad
 
 La aplicación contempla prácticas básicas de seguridad como validación de datos y control de acceso mediante autenticación de usuario.
+## Conclusión
+
+AulaEstudiantilApp representa una solución tecnológica enfocada en mejorar la gestión académica mediante una aplicación móvil accesible y fácil de utilizar.
