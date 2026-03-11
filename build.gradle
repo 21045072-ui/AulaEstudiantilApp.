@@ -6,7 +6,7 @@ plugins {
 android {
     namespace 'com.example.aulaestudiantilapp'
     compileSdk 34
-
+    
     defaultConfig {
         applicationId "com.example.aulaestudiantilapp"
         minSdk 24
