@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+## Seguridad
+
+La aplicación contempla prácticas básicas de seguridad como validación de datos y control de acceso mediante autenticación de usuario.
